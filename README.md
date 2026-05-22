@@ -1,2 +1,1 @@
-﻿# Rinix Ai assistant
-# Rishiraj-s-site
+﻿# 💻 Rinix Ai assistant
